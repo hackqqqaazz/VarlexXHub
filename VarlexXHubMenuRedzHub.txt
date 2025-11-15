@@ -3665,7 +3665,7 @@ function CheckItemBPCRBPCR(v463)
     end
 end
 local v466 = loadstring(game:HttpGet("https://raw.githubusercontent.com/AnhDangNhoEm/UiRedz/refs/heads/main/RedzUiV.txt"))():MakeWindow({
-    Title = "by real_h.thanhpc",
+    Title = "Varlex Hub",
     SubTitle = "by real_h.thanhpc",
     SaveFolder = "Varlex X | Varlex X Hub lib v5.lua"
 })
